@@ -1,0 +1,3 @@
+3.The Number Is In Range [['10', '20']]
+4.The Number For Game Over Is  10
+5.The Number For Award Winning Is  10

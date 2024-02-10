@@ -1,0 +1,7 @@
+file_for_accounts="accounts.txt"
+file_for_user="usershistory/"
+file_for_score="adminfolder/playerscore.txt"
+file_for_Admin_random="adminfolder/rangenumber.txt"
+file_for_Admin_award="adminfolder/awardcondition.txt"
+file_for_Admin_exit="adminfolder/exitcondition.txt"
+rules="adminfolder/adminrules.txt"
