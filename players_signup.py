@@ -30,7 +30,10 @@ def user_signup(user_Account, file_for_user, file_for_accounts,name):
         if user_id=="0":
             return
         for check in user_Account:
-           if "user_id" in check and user_id == check["user_id"] and len(user_id) > 1:
+         if  user_id.lower() == check["user_id"].lower():
+    # Proceed with your action
+    
+
                 print("This UserName Is Already Taken Please Select another")
                 print("If You already Have an account so please Login")
                 print()
